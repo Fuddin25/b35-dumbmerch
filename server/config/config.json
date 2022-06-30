@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "tugas-b35",
-    "host": "127.0.0.1",
+    "username": "saefuddin",
+    "password": "C10071996ah",
+    "database": "dumbmerch",
+    "host": "103.187.147.177",
     "dialect": "mysql"
   },
   "test": {

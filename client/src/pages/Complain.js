@@ -68,10 +68,7 @@ const Complain = () => {
         ...item,
         message: item.senderMessage.length > 0 ? item.senderMessage[item.senderMessage.length - 1].message : "Click here to start message",
       }));
-      // const dataContact = {
-      //     ...data,
-      //     message: messages.length > 0 ? messages[messages.length - 1].message : "Click here to start message",
-      //   };
+     
       console.log("Data Contact : ", dataContact);
       setContacts(dataContact);
     });
